@@ -1,6 +1,13 @@
 # MonteCarlo-Simulation-Loan-Amortization
 This Python tutorial is designed to simulate and visualize the potential lifetimes of a loan under various scenarios. It uses a Monte Carlo method to simulate thousands of potential loan payoff trajectories given varying probabilities of making extra payments or late payments.
 
+![Python Version](https://img.shields.io/badge/Python-3.6%2B-blue)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[![Forks](https://img.shields.io/github/forks/Py-Fi-nance/MonteCarlo-Simulation-Loan-Amortization)](https://github.com/Py-Fi-nance/MonteCarlo-Simulation-Loan-Amortization/network)
+[![Stars](https://img.shields.io/github/stars/Py-Fi-nance/MonteCarlo-Simulation-Loan-Amortization)](https://github.com/MonteCarlo-Simulation-Loan-Amortization/stargazers)
+
 ## Table of Contents
 
 1. [Description](#description)
@@ -44,6 +51,7 @@ Simply run the Python script to start the simulation and generate the plots. You
 ## Notes <a name="notes"></a>
 This script assumes that the interest is calculated on a monthly basis. If your loan uses a different compounding period, you will need to adjust the script accordingly. It provides a useful illustration of the potential impact of making extra payments on the speed of loan payoff, as well as the potential consequences of making late payments. For any questions or inquiries, please contact support@pyfi.com - Subject: Github Repo Q, MonteCarlo-Simulation-Loan-Amortization.
 For a full article walkthrough please visit > (https://www.pyfi.com/blog/monte-carlo-simulation-python) < where you'll also be able to pick up a complimentary copy of the complete, Volume I text of our Machine Learning Edge Blueprint, a $49 value. This text will walk you through everything you need to get started coding Python for Finance
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/company/pyfi/)
 
 ## Contributing <a name="Contributing"></a>
 We welcome contributions to this project. To contribute:
@@ -53,6 +61,3 @@ We welcome contributions to this project. To contribute:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a Pull Request.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-

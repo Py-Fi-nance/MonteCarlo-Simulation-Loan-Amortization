@@ -50,7 +50,7 @@ Simply run the Python script to start the simulation and generate the plots. You
 
 ## Notes <a name="notes"></a>
 This script assumes that the interest is calculated on a monthly basis. If your loan uses a different compounding period, you will need to adjust the script accordingly. It provides a useful illustration of the potential impact of making extra payments on the speed of loan payoff, as well as the potential consequences of making late payments. For any questions or inquiries, please contact support@pyfi.com - Subject: Github Repo Q, MonteCarlo-Simulation-Loan-Amortization.
-For a full article walkthrough please visit > (https://www.pyfi.com/blog/monte-carlo-simulation-python) < where you'll also be able to pick up a complimentary copy of the complete, Volume I text of our Machine Learning Edge Blueprint, a $49 value. This text will walk you through everything you need to get started coding Python for Finance
+For a full article walkthrough please visit > (https://www.pyfi.com/blog/monte-carlo-simulation-python) < and learn more about PyFi's award winning Python for Finance courses which have been trusted by the top financial institutions in the United States and Canada multiple years running here >> https://go.pyfi.com/pyfi-courses << 
 [![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/company/pyfi/)
 
 ## Contributing <a name="Contributing"></a>
